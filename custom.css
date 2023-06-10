@@ -19,6 +19,7 @@ a {
 
 body {
     background-color: #f8f8ff;
+    height: 100vh
 }
 :root {
     --check-size: 150px;
